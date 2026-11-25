@@ -1,0 +1,9 @@
+.idea/
+*.iml
+__pycache__/
+*.py[cod]
+.pytest_cache/
+log/
+report/
+img/
+data/login_data.json
